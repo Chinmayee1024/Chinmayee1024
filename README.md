@@ -10,24 +10,24 @@
 
 <div align="center">
  
- 🔭 I’m currently working on *a marketplace*
+ 🔭 I’m currently pursing MCA at *GIET, Ghangapatna, Bhubaneswar*
  
- 🌱 I’m currently learning *Docker, Supabase, AWS*
+ 🌱 I’m currently learning *Node Js, Express JS
 
-💬 Ask me about *Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)*
+
 
 ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="chinmayeemohanty412@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="linkedin.com/in/chinmayee-mohanty-9245202a4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://github.com/Chinmayee1024" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Thank You For Visiting Me /></a>
 </div>
 
 <br/>

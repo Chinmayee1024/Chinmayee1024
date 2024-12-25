@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Swain</h1>
+<h1 align="center">Hi 👋, I'm Chinmayee Mohanty</h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
@@ -11,12 +11,26 @@
 <h2 align="center" style="transition: color 0.3s ease;"> 🌐 Socials</h2>
 
 <div align=center>
-<a href="https://twitter.com/muktiprasad6599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muktiprasad6599" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukti-prasad-dash-069236241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukti-prasad-dash-069236241" height="30" width="40" /></a>
-<a href="https://instagram.com/epic_dash_life_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epic_dash_life_17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" height="30" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/chinmayee-mohanty-9245202a4/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinmayee-mohanty-9245202a4" height="30" width="40" />
+  </a>
+  <a href="mailto:chinmayeemohanty412@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="chinmayeemohanty412@gmail.com" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/chinmayee-mohanty-9245202a4/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmayee-mohanty-9245202a4" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/girlinthemist_02/profilecard/?igsh=OGhycTA4azVhcGNu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girlinthemist_02" height="30" width="40" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/facebook" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </div>
+
 
 <h2 align="center" style="transition: color 0.3s ease;">💻 Tech Stack</h2>
 

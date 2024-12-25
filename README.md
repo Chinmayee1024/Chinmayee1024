@@ -7,6 +7,7 @@
 </div>
     
 
+
 <h2 align="center" style="transition: color 0.3s ease;">💫 About Me</h2>
     
 🔭 I’m currently pursuing MCA at GIET, Ghangapatna, Bhubaneswar  <br>👯 I’m looking to collaborate on full-stack web development projects  <br>🤝 I’m looking for help with learning advanced Node.js concepts and backend development  <br>🌱 I’m currently learning Node.js, Express.js, and MongoDB  <br>💬 Ask me about web development, full-stack technologies<br>⚡ Fun fact: I can code for hours without realizing the time, but a cup of chai always brings me back to reality!  

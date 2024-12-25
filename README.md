@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmayee Mohanty</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer&color=cyan&center=true" />
 </div>
 
 <h2 align="center" style="transition: color 0.3s ease;">💫 About Me</h2>

@@ -12,7 +12,7 @@
 
 <div align=center>
  
-  <a href="https://www.linkedin.com/in/chinmayee-mohanty-9245202a4/" target="blank">
+  <a href="https://x.com/Chinmayee47424?t=i_vEArrlhdLBIiKlmtEnsA&s=09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinmayee-mohanty-9245202a4" height="30" width="40" />
   </a>
   <a href="mailto:chinmayeemohanty412@gmail.com" target="blank">
@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/girlinthemist_02/profilecard/?igsh=OGhycTA4azVhcGNu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girlinthemist_02" height="30" width="40" />
   </a>
-    <a href="https://your-portfolio-link.com" target="_blank">
+    <a href="https://github.com/Chinmayee1024/Chinmayee1024/" target="_blank">
     <img align="center" src="https://github.com/user-attachments/assets/4164f7d9-d6e4-4e86-8b26-ad7b5ba3e056" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://facebook.com/facebook" target="blank">

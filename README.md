@@ -2,10 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chinmayee+Mohanty!;" style="transition: transform 0.5s ease-in-out;" />
 </h1>
 
-<h3 align="center" style="color: purple; transition: transform 0.5s ease-in-out, color 0.3s ease-in-out;" 
-    onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
-    A Passionate FullStack Developer
-</h3>
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" alt="Typing SVG">
+</div>
+    
 
 <h2 align="center" style="transition: color 0.3s ease;">💫 About Me</h2>
     

@@ -1,12 +1,7 @@
-<h1 align="center" style="color:purple">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chinmayee+Mohanty!;"/>
-</h1>
-
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer&color=cyan&center=true" alt="Typing SVG">
+<h1 align="center">Hi 👋, I'm Neha Swain</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
-    
-
 
 <h2 align="center" style="transition: color 0.3s ease;">💫 About Me</h2>
     

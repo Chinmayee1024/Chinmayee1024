@@ -11,6 +11,7 @@
 <h2 align="center" style="transition: color 0.3s ease;"> 🌐 Socials</h2>
 
 <div align=center>
+ 
   <a href="https://www.linkedin.com/in/chinmayee-mohanty-9245202a4/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinmayee-mohanty-9245202a4" height="30" width="40" />
   </a>
@@ -29,6 +30,7 @@
   <a href="https://facebook.com/facebook" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
+
 </div>
 
 

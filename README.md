@@ -12,7 +12,7 @@
 
 <div align=center>
  
-  <a href="https://x.com/Chinmayee47424?t=i_vEArrlhdLBIiKlmtEnsA&s=09" target="blank">
+  <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinmayee-mohanty-9245202a4" height="30" width="40" />
   </a>
   <a href="mailto:chinmayeemohanty412@gmail.com" target="blank">

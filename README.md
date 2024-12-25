@@ -14,11 +14,13 @@
 
 
 <h2 align="center" style="transition: color 0.3s ease;"> 🌐 Socials</h2>
+
 <div align=center>
-    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E34F26.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinmayee-mohanty-9245202a4/)
-[![Email](https://img.shields.io/badge/Email-%430077B5.svg?logo=gmail&logoColor=black)](chinmayeemohanty412@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300599C.svg?logo=linkedin&logoColor=pink)]() 
+<a href="https://twitter.com/muktiprasad6599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muktiprasad6599" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukti-prasad-dash-069236241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukti-prasad-dash-069236241" height="30" width="40" /></a>
+<a href="https://instagram.com/epic_dash_life_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epic_dash_life_17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@muktiprasaddash9434?si=ltw5sbeytj6uagu9" height="30" width="40" /></a>
+</p>
 </div>
 
 <h2 align="center" style="transition: color 0.3s ease;">💻 Tech Stack</h2>

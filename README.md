@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/girlinthemist_02/profilecard/?igsh=OGhycTA4azVhcGNu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girlinthemist_02" height="30" width="40" />
   </a>
-    <a href="https://github.com/Chinmayee1024/Chinmayee1024/" target="_blank">
+    <a href="https://chinmayeemohanty.netlify.app/" target="_blank">
     <img align="center" src="https://github.com/user-attachments/assets/4164f7d9-d6e4-4e86-8b26-ad7b5ba3e056" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://facebook.com/facebook" target="blank">
